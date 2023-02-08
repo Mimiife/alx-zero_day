@@ -1,1 +1,1 @@
-git clone git add test git commit -m git push origin main touch test
+git pull
